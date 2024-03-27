@@ -1,0 +1,52 @@
+id,isbn,penulis,tahun,judul,gambar,stok
+1,316012823,Kate Atkinson,2006,One Good Turn,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,64
+2,525425888,Nina LaCour,2014,Everything Leads to You,https://images.gr-assets.com/books/1389744233m/18667779.jpg,6
+3,515141666,Nora Roberts,2006,Dance of the Gods,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,60
+4,006117758X,Charles Bukowski,1982,Ham on Rye,https://images.gr-assets.com/books/1388195001m/38501.jpg,85
+5,805073663,Doug Stanton,2001,In Harm's Way: The Sinking of the U.S.S. Indianapolis and the Extraordinary Story of Its Survivors,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,24
+6,800759494,"Don Piper, Cecil Murphey",2004,90 Minutes in Heaven,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,54
+7,374104115,Jeff VanderMeer,2014,Acceptance,https://images.gr-assets.com/books/1403941598m/18077752.jpg,40
+8,439321603,"Newt Scamander, J.K. Rowling, Albus Dumbledore",2001,Fantastic Beasts and Where to Find Them,https://images.gr-assets.com/books/1303738520m/41899.jpg,123
+9,446563080,Seth Grahame-Smith,2010,Abraham Lincoln: Vampire Hunter,https://images.gr-assets.com/books/1291165397m/7108001.jpg,62
+10,61689424,Ellen Schreiber,2010,"Love Bites (Vampire Kisses, #7)",https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,14
+11,1556520743,"Assata Shakur, Angela Y. Davis, Lennox S. Hinds",1987,Assata: An Autobiography,https://images.gr-assets.com/books/1328857268m/100322.jpg,20
+12,684833395,Joseph Heller,1961,Catch-22,https://images.gr-assets.com/books/1463157317m/168668.jpg,251
+13,553286390,"Margaret Weis, Tracy Hickman",1990,"Dragon Wing (The Death Gate Cycle, #1)",https://images.gr-assets.com/books/1403168128m/28481.jpg,37
+14,439895979,Libba Bray,2011,Beauty Queens,https://images.gr-assets.com/books/1289410187m/9464733.jpg,23
+15,785121447,"Peter David, Robin Furth, Jae Lee, Richard Isanove, Stephen King",2007,The Dark Tower: The Gunslinger Born,https://images.gr-assets.com/books/1489721554m/342445.jpg,20
+16,1590523172,Shaunti Feldhahn,2004,For Women Only: What You Need to Know about the Inner Lives of Men,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,19
+17,751532711,Robert T. Kiyosaki,1997,"Rich Dad , Poor Dad",https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,185
+18,143036424,Craig Johnson,2004,The Cold Dish,https://images.gr-assets.com/books/1398028367m/109901.jpg,27
+19,1101990260,Fiona Barton,2016,The Widow,https://images.gr-assets.com/books/1449178687m/25734248.jpg,68
+20,316000973,Darren Shan,2002,"The Vampire Prince (Cirque Du Freak, #6)",https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,66
+21,160096527X,G.K. Chesterton,1908,Orthodoxy,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,430
+22,385529376,Ben Mezrich,2009,"The Accidental Billionaires: The Founding of Facebook: A Tale of Sex, Money, Genius and Betrayal",https://images.gr-assets.com/books/1320527444m/6326920.jpg,46
+23,345452003,"Anne Tyler, Jennifer Bassett",1985,The Accidental Tourist,https://images.gr-assets.com/books/1502220282m/60792.jpg,87
+24,1599908441,Trish Doller,2012,Something Like Normal,https://images.gr-assets.com/books/1336837143m/9403947.jpg,6
+25,62300547,J.D. Vance,2016,Hillbilly Elegy. A Memoir of a Family and Culture in Crisis,https://images.gr-assets.com/books/1463569814m/27161156.jpg,30
+26,1876175702,"Ernesto Che Guevara, Aleida Guevara March",1993,Diarios de motocicleta: notas de viaje por América Latina,https://images.gr-assets.com/books/1354902593m/172732.jpg,100
+27,60880120,Meg Cabot,2006,How to Be Popular,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,41
+28,61836923,Dennis Lehane,2010,Moonlight Mile ,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,54
+29,452285453,Tracy Chevalier,2003,The Lady and the Unicorn,https://images.gr-assets.com/books/1311281285m/89788.jpg,79
+30,517502917,"Arthur Conan Doyle, William S. Baring-Gould",1967,The Annotated Sherlock Holmes,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,5
+31,446618756,Carrie Vaughn,2008,Kitty and the Silver Bullet,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,18
+32,1841492051,Orson Scott Card,2005,Shadow of the Giant,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,34
+33,553208845,"Hermann Hesse, Hilda Rosner",1922,Siddhartha,https://images.gr-assets.com/books/1428715580m/52036.jpg,972
+34,1401200605,"Jeph Loeb, Jim Lee, Scott Williams",2002,Batman Hush #1,https://images.gr-assets.com/books/1460914534m/107017.jpg,24
+35,1423109600,Mo Willems,2008,The Pigeon Wants a Puppy!,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,10
+36,440421705,Carl Hiaasen,2002,Hoot,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,59
+37,876855966,Charles Bukowski,1983,Hot Water Music,https://images.gr-assets.com/books/1428126071m/50453.jpg,54
+38,1451617720,Jennifer Weiner,2010,Then Came You,https://images.gr-assets.com/books/1308787263m/9758764.jpg,27
+39,031621129X,"James Patterson, Maxine Paetro",2014,Unlucky 13,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,41
+40,446674575,James Redfield,1996,The Tenth Insight ,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,80
+41,1595143203,Richelle Mead,2013,The Fiery Heart,https://images.gr-assets.com/books/1383243238m/9833184.jpg,25
+42,446359203,Dan Simmons,1989,Carrion Comfort,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,38
+43,7120710,Agatha Christie,1940,Sad Cypress,https://images.gr-assets.com/books/1396229541m/433035.jpg,174
+44,679774386,"Boris Pasternak, Max Hayward, Manya Harari, John Bayley",1957,Доктор Живаго,https://images.gr-assets.com/books/1385508725m/130440.jpg,330
+45,812520475,Greg Bear,1984,Eon,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,55
+46,385737947,James Dashner,2009,The Maze Runner,https://images.gr-assets.com/books/1375596592m/6186357.jpg,147
+47,152026320,"Audrey Wood, Don    Wood",1984,The Napping House,https://images.gr-assets.com/books/1410229873m/815234.jpg,36
+48,041330860X,Jean Anouilh,1944,Antigone,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,35
+49,399158820,J.D. Robb,2013,Calculated in Death,https://images.gr-assets.com/books/1346079575m/15806231.jpg,33
+50,1559362316,Tony Kushner,1993,Angels in America:  A Gay Fantasia on National Themes,https://images.gr-assets.com/books/1170797663m/72003.jpg,14
+
